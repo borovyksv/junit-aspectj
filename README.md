@@ -6,6 +6,7 @@ Jupiter
 ### this code is based on examples from:
 - https://github.com/junit-team/junit5-samples
 - https://plugins.gradle.org/plugin/io.freefair.aspectj.post-compile-weaving
+- https://www.yegor256.com/2014/06/01/aop-aspectj-java-method-logging.html
 
 ### to run unit tests and see the message from @Loggable annotation execute:
 
