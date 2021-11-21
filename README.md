@@ -7,7 +7,7 @@ Jupiter
 - https://github.com/junit-team/junit5-samples
 - https://plugins.gradle.org/plugin/io.freefair.aspectj.post-compile-weaving
 
-### to run unit tests and see message from @Loggable annotation execute:
+### to run unit tests and see the message from @Loggable annotation execute:
 
 `.\gradlew.bat clean build -i`
 
